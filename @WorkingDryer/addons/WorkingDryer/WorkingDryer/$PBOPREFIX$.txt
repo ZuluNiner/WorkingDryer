@@ -1,0 +1,5 @@
+//<'WorkingDryer.pbo' properties via Mikero's dos tools, dll version 8.35>
+product=dayz ugc;
+prefix=WorkingDryer;
+//PboType=Arma Addon;
+//</properties>
